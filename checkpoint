@@ -1,0 +1,2 @@
+model_checkpoint_path: "./ssdlite_mobilenet_v2_coco_2018_05_09/model.ckpt"
+all_model_checkpoint_paths: "./ssdlite_mobilenet_v2_coco_2018_05_09/model.ckpt"
